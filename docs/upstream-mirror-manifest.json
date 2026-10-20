@@ -1,0 +1,173 @@
+{
+ "upstream": {
+  "platform": "printables",
+  "id": "1563833",
+  "url": "https://www.printables.com/model/1563833-modular-conveyor-belt-for-educational-automation-p",
+  "author": "wolfelm",
+  "license": "CC-BY-SA-4.0",
+  "datePublished": "2026-01-20T09:47:23.775445+00:00",
+  "retrieved": "2026-10-20"
+ },
+ "files": [
+  {
+   "path": "source/upstream/S1.stl",
+   "bytes": 13284,
+   "sha256": "7b3a2dc42d33eec8c7e80d77838a38da04b83ed98a322b9b337a4c322542066e",
+   "printables_file_id": "6598449"
+  },
+  {
+   "path": "source/upstream/Ko1.stl",
+   "bytes": 11084,
+   "sha256": "907d86c4dc040f920d7df4d97792d3f9189d66485643b787e681bf49fba41f07",
+   "printables_file_id": "6598453"
+  },
+  {
+   "path": "source/upstream/díl1.stl",
+   "bytes": 32884,
+   "sha256": "976ee7f9e31e477d9eb80b694b949aa278449a6a4220da4ceb2e9e7af8908e78",
+   "printables_file_id": "6598451"
+  },
+  {
+   "path": "source/upstream/díl 2.stl",
+   "bytes": 684,
+   "sha256": "b6714240e141cf9b419a1434c795a9c78e56f1fd1eaa256a36715427f5b85398",
+   "printables_file_id": "6598450"
+  },
+  {
+   "path": "source/upstream/K1.stl",
+   "bytes": 3084,
+   "sha256": "f2e13c824afff720689d6cf49be2426bcf3f6b25f45f587a529983906297952f",
+   "printables_file_id": "6598452"
+  },
+  {
+   "path": "source/upstream/Z1.stl",
+   "bytes": 37684,
+   "sha256": "645268ec8d5faac6253aae5e4d9c4eccc9818e5bf79a98f62a17bab2fba53b72",
+   "printables_file_id": "6598456"
+  },
+  {
+   "path": "source/upstream/Z2.stl",
+   "bytes": 37084,
+   "sha256": "7cb15c4d09afbbccb8bfdc2b5c7b17652b03f2512ca66cd294510a5e01f50bb1",
+   "printables_file_id": "6598455"
+  },
+  {
+   "path": "source/upstream/C1.stl",
+   "bytes": 66084,
+   "sha256": "03c1e0dd3c4d2f98b63e7ae0655c30e7c769e26c54e85f9f47e04ea35c86549d",
+   "printables_file_id": "6598458"
+  },
+  {
+   "path": "source/upstream/díl 3.stl",
+   "bytes": 31784,
+   "sha256": "2be3f865e58ea5c678d4413c497b89381254482289142d218173db06818543e5",
+   "printables_file_id": "6598454"
+  },
+  {
+   "path": "source/upstream/R2.stl",
+   "bytes": 130684,
+   "sha256": "e4138057f60a37f1c9d77874c77abeef8c1abd2d7fffc6885122725f2c366e3c",
+   "printables_file_id": "6598463"
+  },
+  {
+   "path": "source/upstream/díl 4.stl",
+   "bytes": 75284,
+   "sha256": "c52cb4eb317f9bb086daff85c5f9ce581a28c5b596898983a3caea0746d89e97",
+   "printables_file_id": "6598459"
+  },
+  {
+   "path": "source/upstream/OT1.stl",
+   "bytes": 118284,
+   "sha256": "2d7b528e1f1fdbec2e23f10b85d8a32b4040583c18330ebe85a7acf6d957e7f8",
+   "printables_file_id": "6598461"
+  },
+  {
+   "path": "source/upstream/L2.stl",
+   "bytes": 132784,
+   "sha256": "a7d9679f7841cd9da322c8d537b927aa23399fb6885c16316b3dd8927ec66b53",
+   "printables_file_id": "6598465"
+  },
+  {
+   "path": "source/upstream/R1.stl",
+   "bytes": 121184,
+   "sha256": "119672c8d55e562fb4e71afd695655d563ee012948e85ddeb27d36760456f1ae",
+   "printables_file_id": "6598466"
+  },
+  {
+   "path": "source/upstream/ZS1.stl",
+   "bytes": 129284,
+   "sha256": "b93e0a79c75881187a312f9a4ed37d78e2ebe864bbe1ce5b2e2a7923355852e0",
+   "printables_file_id": "6598462"
+  },
+  {
+   "path": "source/upstream/SB1.stl",
+   "bytes": 67884,
+   "sha256": "e2081be0a15c9bc66bba06e6b462696d3753b77fb4fbf0062f8fef6d840ff8cd",
+   "printables_file_id": "6598460"
+  },
+  {
+   "path": "source/upstream/L1.stl",
+   "bytes": 139084,
+   "sha256": "fd7a3a324007be661a2ed64cea85bed3706e1cee7420a18d9b8949502765a01c",
+   "printables_file_id": "6598467"
+  },
+  {
+   "path": "source/upstream/P1.stl",
+   "bytes": 157684,
+   "sha256": "61d6c0e9cb16a794d535aa617b3e74e46fa2786a9bea07453d61e8a3720b2560",
+   "printables_file_id": "6598464"
+  },
+  {
+   "path": "source/upstream/ZSB1.stl",
+   "bytes": 418084,
+   "sha256": "d9a72d48a2179dd6f4f004090149e39eaf049097e7af8c26426bbd6fad1b1297",
+   "printables_file_id": "6598469"
+  },
+  {
+   "path": "source/upstream/Díl 5.stl",
+   "bytes": 337584,
+   "sha256": "03447a70589b7acfb82489efba890581c742c9bdaf180173a33d6fcabe72ee67",
+   "printables_file_id": "6598468"
+  },
+  {
+   "path": "source/upstream/NZSB1.stl",
+   "bytes": 873384,
+   "sha256": "941d9249461e572bf6e2fda3ef0b5a67a7eb3975cb05e0d063a294e71b543cb5",
+   "printables_file_id": "6598470"
+  },
+  {
+   "path": "source/upstream/Cp1.stl",
+   "bytes": 1440084,
+   "sha256": "67b8698b2130080ca1da954c6ee3d38eb15219af040973c1d709c1db0590a740",
+   "printables_file_id": "6598471"
+  },
+  {
+   "path": "source/upstream/HRM1.stl",
+   "bytes": 2549584,
+   "sha256": "255f7b95651e3482d26aa5f3670a7e531c8b6df7c78ba9ac6c5a07c06b9da7e3",
+   "printables_file_id": "6598472"
+  },
+  {
+   "path": "source/upstream/HR1.stl",
+   "bytes": 2533684,
+   "sha256": "80cb82ed4e68268c46fe40595e7e3547444feaeb65d66682834de6c9677f3f79",
+   "printables_file_id": "6598473"
+  },
+  {
+   "path": "source/upstream/S2.stl",
+   "bytes": 13284,
+   "sha256": "7b3a2dc42d33eec8c7e80d77838a38da04b83ed98a322b9b337a4c322542066e",
+   "printables_file_id": "6598539"
+  },
+  {
+   "path": "source/upstream/images/01-snimek-obrazovky-2026-01-15-224454.png",
+   "bytes": 256938,
+   "sha256": "c16e50913fb2d3e2abc6fe6d4a84feabbecbeaa83cf0f73a4e7d4ebc14ced694"
+  },
+  {
+   "path": "source/upstream/images/02-snimek-obrazovky-2026-01-20-102143.png",
+   "bytes": 549550,
+   "sha256": "a4b5f28bea855c1f80a55118e1515cd08f388b14dc3272fd44ca5c263c0198c8"
+  }
+ ]
+}

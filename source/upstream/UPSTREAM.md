@@ -1,0 +1,12 @@
+# Upstream: Modular Conveyor Belt for Educational Automation Projects
+
+- URL: https://www.printables.com/model/1563833-modular-conveyor-belt-for-educational-automation-p
+- Author: wolfelm (handle wolfelm_4268080)
+- Licence (Printables API licence field): Creative Commons — Attribution  — Share Alike (id 2, disallowRemixing=False)
+- Published: 2026-01-20T09:47:23.775445+00:00
+- Retrieved: 2026-10-20 via Printables GraphQL API (anonymous read)
+- Files: 25 STL, 0 gcode, 0 other
+
+## Upstream description (HTML as served)
+
+<p>This project represents a <strong>fully modular conveyor belt system</strong>, developed as part of a <strong>school mechatronics project</strong>.<br>The design focuses on <strong>simplicity, functionality, and easy customization</strong>.</p><p>The conveyor is composed of several 3D-printed parts that can be assembled without complex tools.<br>It is designed to work with a <strong>DC gear motor</strong>, guide rollers, and a flexible belt, making it ideal for demonstrating basic principles of <strong>mechanical design, automation, and control systems</strong>.</p><p>The model can be used for:</p><ul><li><p>Educational demonstrations</p></li><li><p>Automation experiments</p></li><li><p>Color or object sorting systems</p></li><li><p>Arduino-based control projects</p></li></ul><p>All parts were designed to be <strong>printable on common FDM 3D printers</strong> without the need for supports (unless stated otherwise).</p><p>Compatible Modules &amp; Components</p><p>This conveyor belt system is designed to be compatible with the following <strong>exact hardware modules</strong>:</p><h3>🔸 Control &amp; Electronics</h3><ul><li><p><strong>Arduino Uno (ATmega328P)</strong></p></li><li><p><strong>Arduino Nano</strong></p></li><li><p><strong>Arduino Mega 2560</strong></p></li><li><p><strong>Compatible Arduino boards</strong></p></li></ul><hr><h3>🔸 Motor &amp; Drive</h3><ul><li><p><strong>DC Gear Motor (TT Motor, 3–6 V, metal gearbox recommended)</strong></p></li><li><p><strong>L9110S Dual H-Bridge Motor Driver Module</strong></p></li><li><p><strong>External 5 V DC Power Supply</strong></p></li></ul><hr><h3>🔸 Sensors (Optional)</h3><ul><li><p><strong>TCS3200 Color Sensor Module</strong></p></li><li><p><strong>Infrared Obstacle Sensor (IR reflective sensor)</strong></p></li><li><p><strong>Limit Switch (Micro Switch)</strong></p></li></ul><hr><h3>🔸 Actuators</h3><ul><li><p><strong>SG90 Micro Servo Motor (9 g servo)</strong></p></li></ul><p></p>
